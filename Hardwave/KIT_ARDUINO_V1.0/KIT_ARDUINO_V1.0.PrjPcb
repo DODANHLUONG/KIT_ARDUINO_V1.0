@@ -268,7 +268,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IXFXBGVN
 
 [Document14]
 DocumentPath=..\..\Document\Library\Diode.PcbLib
@@ -302,7 +302,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MJCMLZRJ
 
 [Document16]
 DocumentPath=..\..\Document\Library\Header.PcbLib
@@ -336,7 +336,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ATJBLIHX
 
 [Document18]
 DocumentPath=..\..\Document\Library\IC.PcbLib
@@ -404,7 +404,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XXYZHIOU
 
 [Document22]
 DocumentPath=..\..\Document\Library\Jump.PcbLib
@@ -438,7 +438,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YOXGMYSB
 
 [Document24]
 DocumentPath=..\..\Document\Library\LED.PcbLib
@@ -472,7 +472,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JYQZAZZZ
 
 [Document26]
 DocumentPath=..\..\Document\Library\MCU.PcbLib
@@ -574,7 +574,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NVJLTMWX
 
 [Document32]
 DocumentPath=..\..\Document\Library\Other.PcbLib
@@ -608,7 +608,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SQWIMWWU
 
 [Document34]
 DocumentPath=..\..\Document\Library\Resistor.PcbLib
@@ -676,7 +676,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VCKLRKOX
 
 [Document38]
 DocumentPath=..\..\Document\Library\Transistor.PcbLib
@@ -697,6 +697,23 @@ DocumentUniqueId=
 
 [Document39]
 DocumentPath=..\..\Document\Library\Transistor.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WCPRANJA
+
+[Document40]
+DocumentPath=..\..\Document\Schematic\KIT_ARDUINO_V1.0.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
