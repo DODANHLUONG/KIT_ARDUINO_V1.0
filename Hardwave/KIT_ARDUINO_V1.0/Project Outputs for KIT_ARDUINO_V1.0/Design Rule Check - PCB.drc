@@ -1,26 +1,20 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\KIT_ARDUINO_V1.0\Hardwave\KIT_ARDUINO_V1.0\PCB.PcbDoc
 Date     : 8/30/2025
-Time     : 2:19:54 PM
-
-WARNING: Unplated multi-layer pad(s) detected
-   Pad J3-(-2884.046mil,-1176.642mil) on Multi-Layer on Net GND
-   Pad J3-(-2656.486mil,-1176.642mil) on Multi-Layer on Net GND
+Time     : 2:33:18 PM
 
 Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
    Violation between Clearance Constraint: (8.378mil < 9.842mil) Between Hole of Pad J3-(-2656.486mil,-1176.642mil) on Multi-Layer And Pad J3-11(-2675.78mil,-1134.512mil) on Top Layer 
+   Violation between Clearance Constraint: (6.743mil < 9.842mil) Between Hole of Pad J3-(-2656.486mil,-1176.642mil) on Multi-Layer And Pad J3-12(-2644.284mil,-1134.512mil) on Top Layer 
+   Violation between Clearance Constraint: (6.743mil < 9.842mil) Between Hole of Pad J3-(-2884.046mil,-1176.642mil) on Multi-Layer And Pad J3-1(-2896.252mil,-1134.512mil) on Top Layer 
    Violation between Clearance Constraint: (8.377mil < 9.842mil) Between Hole of Pad J3-(-2884.046mil,-1176.642mil) on Multi-Layer And Pad J3-2(-2864.756mil,-1134.512mil) on Top Layer 
-Rule Violations :2
+Rule Violations :4
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Unplated Pad J3-(-2656.486mil,-1176.642mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Unplated Pad J3-(-2656.486mil,-1176.642mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Unplated Pad J3-(-2884.046mil,-1176.642mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Unplated Pad J3-(-2884.046mil,-1176.642mil) on Multi-Layer 
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -35,9 +29,7 @@ Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=11.811mil)
 Rule Violations :0
 
 Processing Rule : Minimum Annular Ring (Minimum=3mil) (All)
-   Violation between Minimum Annular Ring: (No Ring) Pad J3-(-2656.486mil,-1176.642mil) on Multi-Layer (Annular Ring missing on Top Layer)
-   Violation between Minimum Annular Ring: (No Ring) Pad J3-(-2884.046mil,-1176.642mil) on Multi-Layer (Annular Ring missing on Top Layer)
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
 Rule Violations :0
@@ -81,6 +73,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=71497.938mil) (Prefered=500m
 Rule Violations :0
 
 
-Violations Detected : 25
+Violations Detected : 21
 Waived Violations : 0
 Time Elapsed        : 00:00:02
