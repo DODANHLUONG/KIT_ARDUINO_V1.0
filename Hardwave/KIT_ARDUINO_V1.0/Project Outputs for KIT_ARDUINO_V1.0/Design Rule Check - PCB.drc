@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\KIT_ARDUINO_V1.0\Hardwave\KIT_ARDUINO_V1.0\PCB.PcbDoc
 Date     : 8/30/2025
-Time     : 2:33:18 PM
+Time     : 2:39:32 PM
 
 Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
    Violation between Clearance Constraint: (8.378mil < 9.842mil) Between Hole of Pad J3-(-2656.486mil,-1176.642mil) on Multi-Layer And Pad J3-11(-2675.78mil,-1134.512mil) on Top Layer 

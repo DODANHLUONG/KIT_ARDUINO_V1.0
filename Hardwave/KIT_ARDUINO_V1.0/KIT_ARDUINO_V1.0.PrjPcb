@@ -489,7 +489,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EUKLABRH
 
 [Document27]
 DocumentPath=..\..\Document\Library\MCU.SchLib
@@ -557,7 +557,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JLHSRSKP
 
 [Document31]
 DocumentPath=..\..\Document\Library\Oscillator.SchLib
@@ -711,6 +711,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCPRANJA
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for KIT_ARDUINO_V1.0\Design Rule Check - PCB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
