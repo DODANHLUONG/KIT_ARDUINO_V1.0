@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\KIT_ARDUINO_V1.0\Hardwave\KIT_ARDUINO_V1.0\PCB.PcbDoc
 Date     : 9/8/2025
-Time     : 9:34:42 AM
+Time     : 10:09:26 AM
 
 WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
    Polygon named: NONET_L01_P027 In net GND On Top Layer
