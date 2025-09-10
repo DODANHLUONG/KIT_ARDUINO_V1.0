@@ -17,8 +17,6 @@ project\ Outputs
 project\ Logs
 project\ Project Outputs for*
 
-Project Outputs for KIT_ARDUINO_V1.0
-
 #History
 History
 
@@ -31,3 +29,14 @@ scripts/__pycache__/
 *.bak
 *.dwl
 *.dwl2
+
+#####ddl
+Project Outputs for KIT_ARDUINO_V1.0
+!Gerber
+!3D
+!Library
+!BOM
+!Datasheet
+!PCB rules
+!Schematic
+!Template
